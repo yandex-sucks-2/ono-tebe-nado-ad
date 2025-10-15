@@ -34,7 +34,6 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
-  margin: 48px;
   opacity: 1;
   position: absolute;
   top: 1px;
@@ -134,9 +133,6 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.name {
-  color: #fff;
-}
 .v0_23 {
   width: 163px;
   color: rgba(0,0,0,1);
@@ -199,9 +195,6 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.name {
-  color: #fff;
-}
 .v0_29 {
   width: 264px;
   color: rgba(0,0,0,1);
@@ -226,9 +219,6 @@ body {
   top: 0px;
   left: 0px;
   overflow: hidden;
-}
-.name {
-  color: #fff;
 }
 .v0_32 {
   width: 264px;
@@ -374,9 +364,6 @@ body {
   top: 700px;
   left: 40px;
   overflow: hidden;
-}
-.name {
-  color: #fff;
 }
 .v0_48 {
   width: 192px;
@@ -807,9 +794,6 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.name {
-  color: #fff;
-}
 .v0_85 {
   width: 239px;
   color: rgba(0,0,0,1);
@@ -834,9 +818,6 @@ body {
   top: 0px;
   left: 1px;
   overflow: hidden;
-}
-.name {
-  color: #fff;
 }
 .v0_88 {
   width: 239px;
@@ -906,9 +887,6 @@ body {
   left: 262px;
   overflow: hidden;
 }
-.name {
-  color: #fff;
-}
 .v0_95 {
   width: 108px;
   color: rgba(0,0,0,1);
@@ -954,9 +932,6 @@ body {
   left: 80px;
   overflow: hidden;
 }
-.name {
-  color: #fff;
-}
 .v0_100 {
   width: 149px;
   color: rgba(0,0,0,1);
@@ -993,4 +968,11 @@ body {
 }
 .ono-tebe-nado {
     letter-spacing: 30px;
+}
+.lot-heading {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+address {
+    font-style: italic;
 }
