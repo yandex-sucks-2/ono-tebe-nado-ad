@@ -976,3 +976,7 @@ body {
 address {
     font-style: italic;
 }
+
+a.active {
+    text-decoration: none;
+}
